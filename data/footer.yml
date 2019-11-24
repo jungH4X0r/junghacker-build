@@ -1,0 +1,24 @@
+share:
+  - name: facebook
+  - name: twitter
+
+
+follow:
+  - name: facebook
+    url: https://www.facebook.com/Eigenbaukombinat
+  - name: twitter
+    url: https://twitter.com/ebkhalle
+  - name: youtube
+    url: https://www.youtube.com/channel/UCsfpJrx2csVoioxv6xrCqJA
+  - name: instagram
+    url: https://www.instagram.com/ebkhalle/
+
+content:
+  - title: footer_about
+    links:
+      - name: Eigenbaukombinat Halle e.V.
+        url: https://eigenbaukombinat.de
+        newTab: true
+      - name: Impressum
+        url: /impressum
+        newTab: true

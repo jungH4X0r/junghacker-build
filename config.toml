@@ -1,0 +1,42 @@
+baseURL = "https://junghacker.de"
+languageCode = "de-de"
+title = "Junghacker - Programmieren für Kids"
+theme = "devfest"
+contentdir                 = "content"
+layoutdir                  = "layouts"
+publishdir                 = "jungH4X0r.github.io"
+
+
+enableEmoji = true
+enableRobotsTXT = true
+enableMissingTranslationPlaceholders = true
+
+[params]
+    title = "junghacker"
+    date = "2019-07-13"
+    description = "Du willst gerne deine eigenen Computerspiele entwickeln, mit Elektronik basteln und löten, kleine Roboter programmieren oder auch mit freier Software Medien produzieren und gestalten? Dann bist du bei uns genau richtig!"
+    images = ["/images/logo_transparent.png"]
+    email = "info@junghacker.de"
+    keywords = "programming, kids, halle, eigenbaukombinat, junghacker"
+    copyright = "We :heart:️ programming"
+    cfpUrl = "https://cfp.chaoszone.cz/"
+    subscriptionUrl = "https://lists.eigenbaukombinat.de/listinfo/junghacker"
+    appleTouchIcon = "/apple-touch-icon.png"
+    favicon32 = "/favicon-32x32.png"
+    favicon16 = "/favicon-16x16.png"
+    manifest = "/manifest.json"
+    safariPinnedTab = "/safari-pinned-tab.svg"
+    themeColor = "#673ab7"
+
+[params.logos]
+    jumbo = "/images/logos/logo_transparent.png"
+    header = "/images/logos/logo_transparent.png"
+    footer = "/images/logos/logo_transparent_grey.png"
+
+#[languages]
+#[languages.en]
+#    weight = 1
+#    languageName = "gb"#
+
+[taxonomies]
+  tag = "tags"
