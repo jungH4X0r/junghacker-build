@@ -7,13 +7,8 @@ menu:
     weight: 50
 ---
 
-{{% hero %}}
 Auf unseren Datenreisen sind uns eine Vielzahl an teilenswerten Sachen in die Hände gefallen
-{{% /hero %}}
 
-
-
-{{% home-info%}}
 ### Links und Downloads zu Projekten und Materialien
 
 #### Programmieren üben
@@ -27,4 +22,4 @@ Auf unseren Datenreisen sind uns eine Vielzahl an teilenswerten Sachen in die H�
 * [Pädagogische Hochschule Schwyz: “Informatik ohne Strom” - Kennenlernen von Programmierprinzipien und Begriffen mit “analogen Methoden”](http://ilearnit.ch/download/InformatikohneStrom.pdf)
 * [CODE! Medienpädagogische Methoden für die Heranführung an ALgortihmen und das Erlernen erster Programmierkenntnisse](https://kf-education.com/wp-content/uploads/2018/10/CODE_Handreichung_Web.pdf)
 * [Hello World Handbuch - Konzepte und Methoden für Einsteiger*innen Workshops](https://jugendhackt.org/files/2018/03/001-JHHW_Handbuch_Webansicht.pdf)
-{{% /home-info %}}
+
