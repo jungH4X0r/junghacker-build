@@ -13,5 +13,5 @@ Um allen die Teilnahme zu ermöglichen ist die Veranstaltung für die Teilnehmer
 
 <b>Bitte sehen Sie davon ab, der Veranstaltung beizuwohnen. Zur Präsentation der Ergebnisse ab ca. 15:30 Uhr sind Sie herzlich eingeladen!</b>
 
-Die Teilnehmer *innen müssen eine von ihnen unterschriebene Einverständniserklärung mitbringen. Ohne diese ist eine Teilnahme leider nicht möglich. Zur Dokumentation und Öffentlichkeitsarbeit werden manchmal Fotos und Videoaufnahmen gemacht. Bitte teilen Sie uns auf der Einverständniserklärung mit, ob ihr Kind fotografiert und gefilmt werden darf.
+Die Teilnehmer *innen müssen eine von ihnen unterschriebene [Einverständniserklärung](/pdf/elternzettel.pdf) mitbringen. Ohne diese ist eine Teilnahme leider nicht möglich. Zur Dokumentation und Öffentlichkeitsarbeit werden manchmal Fotos und Videoaufnahmen gemacht. Bitte teilen Sie uns auf der Einverständniserklärung mit, ob ihr Kind fotografiert und gefilmt werden darf.
 {{% /home-info %}}

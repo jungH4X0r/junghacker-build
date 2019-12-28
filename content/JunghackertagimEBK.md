@@ -15,7 +15,7 @@ Du willst gerne deine eigenen Computerspiele entwickeln, mit Elektronik basteln 
 
 Zusammen mit anderen Junghackern und mit der Unterstützung von erfahrenen Mentor*innen kannst du all das bei uns lernen.
 
-Unter [Themen](/sessions) kannst du nachsehen welche Mentoren etwas anbieten. Unter [Ressoucen und Links](/ressoucen) kannst du weiterführende Unterlagen und Ideen finden.
+Unter [Themen](/sessions) kannst du nachsehen welche Mentoren etwas anbieten. Unter [Ressoucen und Links](/ressourcen) kannst du weiterführende Unterlagen und Ideen finden.
 
 ### Für wen ist der Junghackertag etwas?
 Für wen? Alle, die zwischen **10 und 18 Jahre alt** sind, egal ob mit oder ohne Vorwissen
@@ -25,7 +25,7 @@ Wo? Eigenbaukombinat, Landsberger Straße 3, 06112 Halle
 {{< video id="2017-01-28_Junghacker.mp4">}}
 
 ### Wie kann ich am Junghackertag teilnehmen?
-Bitte melde dich jeweils vorher über unseren Ticket-Bereich bei uns an und vergiss nicht die von deinen Eltern unterschriebenen Einverständniserklärung mit Fotoerlaubnis zum Junghackertag mitzubringen.
+Bitte melde dich jeweils vorher über unseren [Ticket-Bereich](https://tickets.eigenbaukombinat.de/ebk/) bei uns an und vergiss nicht die von deinen Eltern unterschriebenen [Einverständniserklärung](/pdf/elternzettel.pdf) mit Fotoerlaubnis zum Junghackertag mitzubringen.
 
 ### Wie läuft der Junghackertag ab?
 Damit wir pünktlich beginnen können, bitten wir euch rechtzeitig da zu sein, am besten schon um 9:45.
