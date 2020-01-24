@@ -15,10 +15,4 @@ city: 'Halle(Saale)'
 
 ---
 
-bei mir kannst du $Dinge über <br>
-- a<br>
--b<br>
--v<br>
-wef-sdfg-wg<br>
-<br>
-lernen.<br>
+hier ist es noch sehr leer

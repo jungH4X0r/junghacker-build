@@ -15,4 +15,4 @@ country: ''
 city: 'Plauen'
 ---
 
-# Full bio
+hier ist es noch sehr leer

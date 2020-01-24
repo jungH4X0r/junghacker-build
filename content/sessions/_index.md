@@ -9,6 +9,6 @@ draft: false
 ---
 
 {{% hero %}}
-Neben den hier abgebildeten Themen ist es erwünscht eigene Themen und Ideen einzubringen.
+Neben den hier abgebildeten Themen ist es erwünscht **eigene Themen** und Ideen einzubringen.
 {{% /hero %}}
 

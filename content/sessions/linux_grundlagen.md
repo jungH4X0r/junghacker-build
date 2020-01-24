@@ -7,9 +7,9 @@ talkType: Conference #<-- "Conference" "Quickie" "Keynote" -->
 speakers:
   - jotilux
 tags:
-  - Linux
-presentation: http://slideshare.....
-videoId: Youtube Id
+  - 
+presentation: #http://slideshare.....
+videoId: #
 ---
 
-Full description
+[Wikipedia: Linux](https://de.wikipedia.org/wiki/Linux)
