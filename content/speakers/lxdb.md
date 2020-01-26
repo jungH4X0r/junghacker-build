@@ -12,11 +12,13 @@ socials:
   - icon: github
     link: 'https://github.com/lxdb'
     name: '@lxdb'
-
+  - icon: youtube
+    link: 'https://www.youtube.com/channel/UCWKhf4ceEglnxMwIYyPYQBw'
+    name: '@LXDB'
 #shortBio: lorem ipsum ...
 companyLogo: /images/speakers/company/ebk.png
 country: 'Germany'
 city: 'Halle(Saale)'
 ---
-
+ 
 hier ist es noch sehr leer
