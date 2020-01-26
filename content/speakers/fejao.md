@@ -1,7 +1,7 @@
 ---
 id: "Fejao"
 name: "Fejao"
-key: Fejao
+key: fejao
 company: Eigenbaukombinat Halle e.V.
 featured: false
 photoURL: /images/speakers/fejao.jpg

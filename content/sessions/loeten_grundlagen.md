@@ -5,10 +5,11 @@ language: deutsch
 level: Leicht
 talkType: Quickie
 speakers:
-  - Fejao
+  - fejao
   - jotilux
+  - honky
 tags:
-  - 
+  - E
 presentation: 
 videoId: T5v3illPk8I
 ---

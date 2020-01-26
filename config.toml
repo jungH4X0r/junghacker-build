@@ -25,7 +25,7 @@ enableMissingTranslationPlaceholders = true
     favicon32 = "/images/favicon-32x32.png"
     favicon16 = "/images/favicon-16x16.png"
     manifest = "/images/manifest.json"
-    safariPinnedTab = "/safari-pinned-tab.svg"
+    safariPinnedTab = "/images/apple-touch-icon.png"
     themeColor = "#673ab7"
 
 [params.logos]
@@ -40,3 +40,4 @@ enableMissingTranslationPlaceholders = true
 
 [taxonomies]
   tag = "tags"
+

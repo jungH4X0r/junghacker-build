@@ -10,7 +10,7 @@ speakers:
   - jotilux
   - maksim
 tags:
-  - 
+  - E
 presentation: http://slideshare.....
 videoId: #Youtube Id
 ---

@@ -1,18 +1,16 @@
 ---
-id: "Linux Grundlagen"
-title: "Linux Grundlagen"
+id: "netzwerk_grundlagen"
+title: "Netzwerk Grundlagen"
 language: deutsch
-level: Leicht
+level: Mittel
 talkType: Conference #<-- "Conference" "Quickie" "Keynote" -->
 speakers:
-  - cs
-  - nilo
-  - david
   - jotilux
+  - cs
 tags:
   - E
 presentation: #http://slideshare.....
 videoId: #
 ---
 
-[Wikipedia: Linux](https://de.wikipedia.org/wiki/Linux)
+IPv4, IPV6, DHCP, DNS, OSI-Referenzmodel, IP-Netz Subnetting

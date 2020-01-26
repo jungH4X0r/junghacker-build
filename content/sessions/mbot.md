@@ -10,7 +10,7 @@ speakers:
   - david
   - maksim
 tags:
-  - 
+  - E
 presentation: http://slideshare.....
 videoId: pmsSipper3Y #Youtube Id
 ---

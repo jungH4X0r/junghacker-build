@@ -10,14 +10,10 @@ speakers:
   - jotilux
   - roberto
 tags:
-  - 
-presentation: 
+  - E
+presentation: #http://slideshare.....
+videoId: #
 
 ---
 
-Ein Basic-Tutorial wie man Lötet. 
-**Löten lernen für Anfänger - Einfach erklärt**
 
-[Löten lernen](https://wiki.raumzeitlabor.de/wiki/L%C3%B6ten_lernen)
-
-Wir haben im EBK zwei Lötarbeitsplätze und verschiedene Lötbausätze.

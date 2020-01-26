@@ -53,15 +53,15 @@ In unserem Ticketsystem kannst du dich für unsere Veranstaltung anmelden.
 {{% home-location
     image="/images/map.png"
     address="Navigation: Landsberger Str. 3 06112 Halle (Saale)"
-    latitude="51.479917"
-    longitude="11.9919162" %}}
+    latitude="51.4799"
+    longitude="11.9926" %}}
 
 ## Anfahrt
 ### Eigenbaukombinat Halle e.V. 
 ### Landsberger Str. 3
 ### 06112 Halle (Saale)
 ### -----------------------------------------
-#### Bahn:  Hauptbahnhof ca. 7min.
+#### Bahn:  Hauptbahnhof ca. 9min.
 #### Straßenbahn: Freiimfelder Str. (10, 7)
 {{% /home-location %}}
 

@@ -2,12 +2,12 @@
 id: "Stoppmotion"
 title: "Stoppmotion"
 language: deutsch
-level: Mittel
+level: Leicht
 talkType: Conference #<-- "Conference" "Quickie" "Keynote" -->
 speakers:
   - lisa
 tags:
-  - 
+  - E
 presentation: #http://slideshare.....
 videoId: yOP15Ep4gPU
 ---
