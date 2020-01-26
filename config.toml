@@ -1,4 +1,4 @@
-baseURL = "https://junghacker.de"
+baseURL = "https://www.junghacker.de"
 languageCode = "de-de"
 title = "Junghacker - Programmieren für Kids"
 theme = "devfest"
