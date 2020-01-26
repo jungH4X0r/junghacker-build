@@ -4,7 +4,7 @@ name: "CS"
 key: "cs"
 company: Eigenbaukombinat Halle e.V.
 featured: false
-photoURL: /images/speakers/default.jpg
+photoURL: /images/speakers/default.png
 socials:
   #- icon: twitter
   #  link: 'https://twitter.com/XXX'

@@ -1,7 +1,7 @@
 ---
-id: "Steffen_Allner"
-name: "Steffen_Allner"
-key: "steffen_allner"
+id: "Steffen"
+name: "Steffen"
+key: "steffen"
 company: 
 featured: false
 photoURL: /images/speakers/steffen-300x300.jpg

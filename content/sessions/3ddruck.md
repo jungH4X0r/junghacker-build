@@ -5,7 +5,10 @@ language: deutsch
 level: Leicht
 talkType: Quickie
 speakers:
+  - johann
+  - lxdb
   - jotilux
+  - roberto
 tags:
   - 
 presentation: 

@@ -2,11 +2,10 @@
 id: "Stoppmotion"
 title: "Stoppmotion"
 language: deutsch
-level: Leicht
+level: Mittel
 talkType: Conference #<-- "Conference" "Quickie" "Keynote" -->
 speakers:
-  - lisa_krug
-  - 
+  - lisa
 tags:
   - 
 presentation: #http://slideshare.....

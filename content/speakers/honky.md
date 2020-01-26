@@ -4,7 +4,7 @@ name: "Honky"
 key: "honky"
 company: C3D2 e.V.
 featured: false
-photoURL: /images/speakers/default.jpg
+photoURL: /images/speakers/default.png
 socials:
   #- icon: twitter
   #  link: 'https://twitter.com/XXX'

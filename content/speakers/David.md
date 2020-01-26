@@ -4,7 +4,7 @@ name: "David"
 key: "david"
 company: Eigenbaukombinat Halle e.V.
 featured: false
-photoURL: /images/speakers/default.png
+photoURL: /images/speakers/uly55e5.png
 socials:
   #- icon: twitter
   #  link: 'https://twitter.com/XXX'

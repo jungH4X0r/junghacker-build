@@ -13,6 +13,7 @@ Auf unseren Datenreisen sind uns eine Vielzahl an teilenswerten Sachen in die HÃ
 
 ## Programmieren Ã¼ben
 * [ScratchJr Coding for young children ages 5-7](http://www.scratchjr.org/)
+* [CodeCombat](https://codecombat.com/)
 
 ## Versionierung mit Git
 * [Git lernen](https://learngitbranching.js.org/)

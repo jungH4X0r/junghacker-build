@@ -13,7 +13,7 @@ socials:
     link: 'https://github.com/jotilux'
     name: '@jotilux'
 
-shortBio: lorem ipsum ...
+#shortBio: lorem ipsum ...
 companyLogo: /images/speakers/company/ebk.png
 country: 'Germany'
 city: 'Halle(Saale)'

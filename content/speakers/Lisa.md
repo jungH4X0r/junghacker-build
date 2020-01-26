@@ -1,7 +1,7 @@
 ---
-id: "Lisa_Krug"
-name: "Lisa Krug"
-key: "lisa_krug"
+id: "Lisa"
+name: "Lisa"
+key: "lisa"
 company: Eigenbaukombinat Halle e.V.
 featured: false
 photoURL: /images/speakers/lisa_jh-500x500.jpg

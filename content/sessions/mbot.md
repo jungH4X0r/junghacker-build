@@ -5,7 +5,10 @@ language: Deutsch
 level: Leicht
 talkType: Quickie
 speakers:
-  - lisa_krug
+  - lisa
+  - caro
+  - david
+  - maksim
 tags:
   - 
 presentation: http://slideshare.....

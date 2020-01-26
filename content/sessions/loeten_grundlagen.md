@@ -5,6 +5,7 @@ language: deutsch
 level: Leicht
 talkType: Quickie
 speakers:
+  - Fejao
   - jotilux
 tags:
   - 

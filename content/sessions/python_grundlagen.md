@@ -6,7 +6,9 @@ level: Leicht
 talkType: Quickie
 speakers:
   - nilo
-  - danielr
+  - david
+  - jotilux
+  - maksim
 tags:
   - 
 presentation: http://slideshare.....

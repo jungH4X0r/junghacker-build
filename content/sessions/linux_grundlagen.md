@@ -5,6 +5,9 @@ language: deutsch
 level: Leicht
 talkType: Conference #<-- "Conference" "Quickie" "Keynote" -->
 speakers:
+  - cs
+  - nilo
+  - david
   - jotilux
 tags:
   - 
