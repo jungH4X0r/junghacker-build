@@ -1,10 +1,10 @@
 ---
-id: "DanielR"
-name: "DanielR"
-key: "danielr"
+id: "David"
+name: "David"
+key: "david"
 company: Eigenbaukombinat Halle e.V.
 featured: false
-photoURL: /images/speakers/default.jpg
+photoURL: /images/speakers/default.png
 socials:
   #- icon: twitter
   #  link: 'https://twitter.com/XXX'

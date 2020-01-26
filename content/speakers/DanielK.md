@@ -4,11 +4,11 @@ name: "DanielK"
 key: "danielk"
 company: 
 featured: false
-photoURL: /images/speakers/default.jpg
+photoURL: /images/speakers/danielk.jpg
 socials:
-  #- icon: twitter
-  #  link: 'https://twitter.com/XXX'
-  #  name: '@XXX'
+  - icon: github
+    link: 'https://github.com/KuhnDaniel'
+    name: '@KuhnDaniel'
 #shortBio: lorem ipsum ...
 companyLogo: 
 country: ''
