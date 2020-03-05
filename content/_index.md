@@ -43,7 +43,7 @@ In unserem Ticketsystem kannst du dich für unsere Veranstaltung anmelden.
   
 {{% home-subscribe  class="primary" %}}
 
-### Auf unserer Mailinigliste erhälst du Informationen und kannst dich mit gleichgesinnten austauschen. Meld dich gleich an.
+### Auf unserer Mailinigliste erhältst du Informationen und kannst dich mit gleichgesinnten austauschen. Meld dich gleich an.
 
 {{% /home-subscribe %}} 
 

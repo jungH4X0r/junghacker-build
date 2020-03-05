@@ -20,7 +20,7 @@ Um allen die Teilnahme zu ermöglichen ist die Veranstaltung für die Teilnehmer
 
 Die Teilnehmer *innen müssen eine von ihnen unterschriebene [Einverständniserklärung](/pdf/elternzettel.pdf) mitbringen. Ohne diese ist eine Teilnahme leider nicht möglich. Zur Dokumentation und Öffentlichkeitsarbeit werden manchmal Fotos und Videoaufnahmen gemacht. Bitte teilen Sie uns auf der Einverständniserklärung mit, ob ihr Kind fotografiert und gefilmt werden darf.
 
-**Da wir mit den Anmeldungen im Ticketsystem unsere Mentoren und unser Essen planen benötigen wir diese zwingend. Bitte bei nichtteilnahme dieses Ticket stornieren damit die Teilnehmer auf den Warteplätzen eins abbekommen!**
+**Da wir mit den Anmeldungen im Ticketsystem unsere Mentoren und unser Essen planen benötigen wir diese zwingend. Bitte bei Nichtteilnahme dieses Ticket stornieren damit die Teilnehmer auf den Warteplätzen eins abbekommen!**
 
 ## Unsere Ziele im Überblick
 
