@@ -11,6 +11,11 @@ Auf unseren Datenreisen sind uns eine Vielzahl an teilenswerten Sachen in die H�
 
 # Links und Downloads zu Projekten und Materialien
 
+## Kommunikation
+* einige Junghacker haben sich einen Discord-Raum eingerichtet: [Discordapp.com](https://discordapp.com/invite/tCe65mw)
+* weiterhin könnt Ihr auch im Matrix Kontakt herstellen: [Anleitung zur Matrix-Account-Einrichtung](https://eigenbaukombinat.de/unser-neuer-chat-und-nachrichtenserver/)
+* natürlich auch per E-Mail: info [at] junghacker [punkt] de
+
 ## Programmieren üben
 * [ScratchJr Coding for young children ages 5-7](http://www.scratchjr.org/)
 * [CodeCombat](https://codecombat.com/)
@@ -20,6 +25,9 @@ Auf unseren Datenreisen sind uns eine Vielzahl an teilenswerten Sachen in die H�
 
 ## Datenschutz
 * [Panopticlick - Is your browser safe against tracking? ](https://panopticlick.eff.org/)
+
+## Technik leicht erklärt
+* [julia's drawings](https://drawings.jvns.ca/)
 
 ## Links für Mentoren
 * [Computerscience unplugged: “Informatik ohne Computer” - Kennenlernen von Programmierprinzipien und Begriffen mit “analogen Methoden”](https://csunplugged.org/de/)
