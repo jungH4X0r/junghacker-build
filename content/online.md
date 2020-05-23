@@ -9,7 +9,7 @@ hero: ""
 * Alternativ kann das Jitsi auch mit einem Smartphone und einer App angesteuert werden.
 
 ## Wie könnt Ihr uns erreichen wenn Ihr technische Probleme habt
-* [Jitsi-Raum](https://jitsi.flyingcircus.io/chaostreff)
+* [BigBlueButton-Raum](https://bbb.ulm.dev/b/ebkjunghacker)
 * einige Junghacker haben sich einen Discord-Raum eingerichtet: [Discordapp.com](https://discordapp.com/invite/tCe65mw)
 * weiterhin könnt Ihr auch im Matrix Kontakt herstellen: [Anleitung zur Matrix-Account-Einrichtung](https://eigenbaukombinat.de/unser-neuer-chat-und-nachrichtenserver/)
 * natürlich auch per E-Mail: info [at] junghacker [punkt] de
@@ -17,38 +17,36 @@ hero: ""
 ## Wie läuft der Junghackertag online ab?
 * Damit wir pünktlich beginnen können, bitten wir euch rechtzeitig online da zu sein, am besten schon um 9:45Uhr.
 
-| Uhrzeit | Thema | Bemerkung |
-| :------------ | :------------ | :------------- |
-| 09:45 - 10:00   | **W**armup   |  [Jitsi-Raum](https://jitsi.flyingcircus.io/chaostreff) (kein Firefox!!) |
-| 10:00 - 10:15   | **K**ennenlernrunde   | [Jitsi-Raum](https://jitsi.flyingcircus.io/chaostreff) (kein Firefox!!) |
-| 10:15 - 10:30   | **P**rojektideen finden und sammeln   | [Discord-Raum](https://discordapp.com/invite/tCe65mw)   |
-| 10:30 - 12:30   | **C**oden, Basteln, Tüfteln   | [Discord-Raum](https://discordapp.com/invite/tCe65mw)   |
-| 12:30 - 13:00   | **M**ittagspause   |  [Jitsi-Raum](https://jitsi.flyingcircus.io/chaostreff) (kein Firefox!!) |
-| 13:00 - 15:30   | **C**oden, Basteln, Tüfteln   | [Discord-Raumm ](https://discordapp.com/invite/tCe65mw)  |
-| 15:30 - 16:00   | **P**räsentation der Projekte   | [Jitsi-Raum](https://jitsi.flyingcircus.io/chaostreff) (kein Firefox!!)  |
+| Uhrzeit | Thema |
+| :------------ | :------------ |
+| 09:45 - 10:00   | **W**armup   |
+| 10:00 - 10:15   | **K**ennenlernrunde   |
+| 10:15 - 10:30   | **P**rojektideen finden und sammeln   |
+| 10:30 - 12:30   | **C**oden, Basteln, Tüfteln   |
+| 12:30 - 13:00   | **M**ittagspause   |
+| 13:00 - 15:30   | **C**oden, Basteln, Tüfteln   |
+| 15:30 - 16:00   | **P**räsentation der Projekte   |
 
 * Wir würden gern unsere Struktur auch online etwas nachbasteln.
 
 <br>
-<a class="btn primary" target="_blank" rel="noopener" href="https://jitsi.flyingcircus.io/chaostreff">
-    Jitsi-Raum
+<a class="btn primary" target="_blank" rel="noopener" href="https://bbb.ulm.dev/b/ebkjunghacker">
+    BigBlueButton-Raum
     {{% icon "right" %}}
 </a>
  
-<a class="btn primary" target="_blank" rel="noopener" href="https://discordapp.com/invite/tCe65mw">
-    Discord-Raum
-    {{% icon "right" %}}
-</a>
 
 ## Was wir aktuell anbieten können
 
-* wenn Ihr wollt könnten wir euch eine Sensbox ausleihen
+* wenn Ihr wollt könnten wir euch eine Sensebox ausleihen
 * [Sratch im Browser](https://scratch.mit.edu/projects/editor/?tutorial=getStarted)
 * [Entenrennen](https://app.code-it-studio.de/)
 * [code.org](https://code.org/hourofcode/overview)
 * [codeCombat](https://codecombat.com/)
-* Knobeln: [picoCTF](https://2018game.picoctf.com)  Wir haben hier eine Klassenraum für Junghacker eingerichtet: Classroom Name: Junghackertag Teacher Username: jotilux
-* Für ernste Knobelein: [overthewire](https://overthewire.org/)
+* [picoCTF](https://2018game.picoctf.com)  Wir haben hier eine Klassenraum für Junghacker eingerichtet: Classroom Name: Junghackertag Teacher Username: jotilux
+* [SQL Murder Mystery](https://mystery.knightlab.com/)
+* [The Commandline Murders](https://github.com/veltman/clmystery)
+* [overthewire](https://overthewire.org/) Für ernsthaftes Knobeln!
 * [Osterknobelei](https://www.getdigital.de/community/raetsel/osterr%C3%A4tsel-2020.html)
 * [Für Ardunino und Raspberry Pi](https://circuito.io)
 * [Calliope](https://makecode.calliope.cc/)
