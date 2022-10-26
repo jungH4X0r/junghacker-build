@@ -37,17 +37,6 @@ In unserem Ticketsystem kannst du dich für unsere Veranstaltung anmelden.
 </a>
 {{% /home-info %}}
 
-
- 
- 
-  
-{{% home-subscribe  class="primary" %}}
-
-### Auf unserer Mailinigliste erhältst du Informationen und kannst dich mit gleichgesinnten austauschen. Meld dich gleich an.
-
-{{% /home-subscribe %}} 
-
- 
  
 
 {{% home-location
@@ -68,7 +57,7 @@ In unserem Ticketsystem kannst du dich für unsere Veranstaltung anmelden.
   
  
 
-{{% album images="/images/blog/IMG_1181-300x200.jpg,/images/blog/2_Scratch-1-1060x650.jpg,/images/blog/3_Arduino-1.jpg,/images/blog/3_Arduino-2.jpg,/images/blog/4_mBot-1.jpg,/images/blog/IMG_1721-1024x683.jpg,/images/blog/Scratch.jpeg,/images/blog/ebk.jpg,/images/blog/IMG_1212-300x200.jpg"%}}
+{{% album images="/images/blog/IMG_1181-300x200.jpg,/images/blog/2_Scratch-1-1060x650.jpg,/images/blog/3_Arduino-1.jpg,/images/blog/3_Arduino-2.jpg,/images/blog/4_mBot-1.jpg,/images/blog/IMG_1721-1024x683.jpg,/images/blog/Scratch.jpeg,/images/blog/ebk.jpg"%}}
 
 ### Einige Bilder der vergangenen Veranstaltungen.
 
