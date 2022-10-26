@@ -11,6 +11,9 @@ enableEmoji = true
 enableRobotsTXT = true
 enableMissingTranslationPlaceholders = true
 
+[markup.goldmark.renderer]
+unsafe= true
+
 [params]
     title = "junghacker"
     date = "2019-07-13"
