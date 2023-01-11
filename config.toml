@@ -12,9 +12,6 @@ enableRobotsTXT = true
 enableMissingTranslationPlaceholders = true
 
 
-[markup.goldmark.renderer]
-unsafe= true
-=======
 [markup]
   defaultMarkdownHandler = "goldmark"
   [markup.goldmark]
