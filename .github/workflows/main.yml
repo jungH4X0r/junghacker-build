@@ -23,10 +23,13 @@ jobs:
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
-        with:
+        #with:
           #personal_token: ${{ secrets.TOKEN2 }}
           #external_repository:  jungH4X0r/jungH4X0r.github.io
-          publish_dir: ./jungH4X0r.github.io
+        if: ${{ github.ref == 'refs/heads/main' }}
+        with:
+            github_token: ${{ secrets.GITHUB_TOKEN }}
+            publish_dir: ./jungH4X0r.github.io
           #   keep_files: true
           user_name: <username>
           user_email: <username@email.com>
