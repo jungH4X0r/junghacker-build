@@ -20,18 +20,16 @@ jobs:
         # remove --minify tag if you do not need it
         # docs: https://gohugo.io/hugo-pipes/minification/
         run: hugo --minify --gc
+        
+      - uses: webfactory/ssh-agent@v0.5.0
+        with:
+          ssh-private-key: |
+                ${{ secrets.TOKEN }} 
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
-        #with:
-          #personal_token: ${{ secrets.TOKEN2 }}
-          #external_repository:  jungH4X0r/jungH4X0r.github.io
-        if: ${{ github.ref == 'refs/heads/master' }}
+            
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          external_repository:  jungH4X0r/jungH4X0r.github.io
           publish_dir: ./jungH4X0r.github.io
-          #   keep_files: true
-          #  user_name: <username>
-          # user_email: <username@email.com>
-          # publish_branch: master
-          #   cname: example.com
+          publish_branch: master
