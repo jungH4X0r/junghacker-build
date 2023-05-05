@@ -33,7 +33,9 @@ jobs:
         with:
           ssh-private-key: |
                 ${{ secrets.SSH_PRIVATE_KEY }}
-   # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+                ${{ secrets.SSH_PRIVATE_KEY2 }}    
+
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - name: Checkout master branch
         uses: actions/checkout@v2
         with:
