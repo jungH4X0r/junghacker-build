@@ -14,4 +14,3 @@ Heute gabs unter anderem Löten von Weihnachtsbäumen, Zusammenbau eines Roboter
 
 {{% album images="/images/blog/IMG_0088.jpg,/images/blog/IMG_0120.jpg,/images/blog/IMG_0054.jpg,/images/blog/IMG_0098.jpg,/images/blog/IMG_0135.jpg,/images/blog/IMG_0079.jpg"%}}
 {{% /album%}}
-1
