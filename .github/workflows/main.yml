@@ -1,35 +1,64 @@
-name: CI
-on: push
+name: Generate Hugo
+
+defaults:
+  run:
+    shell: bash
+
+# Controls when the action will run. 
+on:
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+  # branch to deploy
+  push:
+    branches:
+      - main
+
 jobs:
-  deploy:
-    runs-on: ubuntu-22.04
+  build:
+    runs-on: ubuntu:latest
     steps:
-      - name: Git checkout
-        uses: actions/checkout@v2
-
-      - name: Update theme
-        # (Optional)If you have the theme added as submodule, you can pull it and use the most updated version
-        run: git submodule update --init --recursive
-
-      - name: Setup hugo
-        uses: peaceiris/actions-hugo@v2
-        with:
-          hugo-version: 0.88.0
-
-      - name: Build
-        # remove --minify tag if you do not need it
-        # docs: https://gohugo.io/hugo-pipes/minification/
-        run: hugo --minify --gc
-        
+      - name: Install Hugo
+        env:
+          HUGO_VERSION: 0.88.0
+        run: |
+          mkdir ~/hugo
+          cd ~/hugo
+          curl -L "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_Linux-64bit.tar.gz" --output hugo.tar.gz
+          tar -xvzf hugo.tar.gz
+          sudo mv hugo /usr/local/bin
+      # add the private key to the ssh-agent
+      # the private repo is referenced via ssh so the key will be used
+      # from the agent when doing the checkout
       - uses: webfactory/ssh-agent@v0.5.0
         with:
           ssh-private-key: |
-                ${{ secrets.TOKEN }} 
-
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
-            
+                ${{ secrets.SSH_PRIVATE_KEY }}
+   # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - name: Checkout master branch
+        uses: actions/checkout@v2
         with:
-          external_repository:  jungH4X0r/jungH4X0r.github.io
-          publish_dir: ./jungH4X0r.github.io
-          publish_branch: master
+          submodules: recursive
+
+      - name: Fix detached head on public submodule
+        run: |
+          cd  jungH4X0r.github.io/
+          git checkout main          
+
+      - name: Hugo Build
+        run: hugo  --gc --minify
+
+      - name: Commit changes
+        run: |
+          cd jungH4X0r.github.io/
+
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Action"
+
+          git add -A .
+
+          if git diff-index --quiet HEAD --; then
+            echo "No changes..."
+          else
+            git commit -m "[CI] build hugo static site"
+            git push -u origin master
+          fi
