@@ -10,7 +10,6 @@ hero: ""
 
 ## Wie könnt Ihr uns erreichen wenn Ihr technische Probleme habt
 * [BigBlueButton-Raum](https://bbb.ulm.dev/b/ebkjunghacker)
-* einige Junghacker haben sich einen Discord-Raum eingerichtet: [Discordapp.com](https://discordapp.com/invite/tCe65mw)
 * weiterhin könnt Ihr auch im Matrix Kontakt herstellen: [Anleitung zur Matrix-Account-Einrichtung](https://eigenbaukombinat.de/unser-neuer-chat-und-nachrichtenserver/)
 * natürlich auch per E-Mail: info [at] junghacker [punkt] de
 
