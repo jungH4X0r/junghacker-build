@@ -5,7 +5,8 @@ language: deutsch
 level: Leicht
 talkType: Conference #<-- "Conference" "Quickie" "Keynote" -->
 speakers:
-  - lisa
+  - dirk_re
+  - jotilux
 tags:
   - E
 presentation: #http://slideshare.....
