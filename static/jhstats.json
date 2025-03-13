@@ -1,0 +1,498 @@
+[
+  {
+    "Name": "jh24-10",
+    "date": "26.10.2024",
+    "tln": 18,
+    "kontigent": 20,
+    "mentoren": 7,
+    "remark": ""
+  },
+  {
+    "Name": "jh24-9",
+    "date": "28.09.2024",
+    "tln": 11,
+    "kontigent": 15,
+    "mentoren": 5,
+    "remark": ""
+  },
+  {
+    "Name": "jh24-8",
+    "date": "24.08.2024",
+    "tln": 9,
+    "kontigent": 10,
+    "mentoren": 7,
+    "remark": ""
+  },
+  {
+    "Name": "jh24-7",
+    "date": "27.07.2024",
+    "tln": 7,
+    "kontigent": 10,
+    "mentoren": 3,
+    "remark": ""
+  },
+  {
+    "Name": "jh24-6",
+    "date": "22.06.2024",
+    "tln": 6,
+    "kontigent": 10,
+    "mentoren": 3,
+    "remark": ""
+  },
+  {
+    "Name": "jh24-5",
+    "date": "25.05.2024",
+    "tln": 7,
+    "kontigent": 10,
+    "mentoren": 4,
+    "remark": ""
+  },
+  {
+    "Name": "jh24-4",
+    "date": "27.04.2024",
+    "tln": 11,
+    "kontigent": 15,
+    "mentoren": 5,
+    "remark": ""
+  },
+  {
+    "Name": "jh24-3",
+    "date": "23.03.2024",
+    "tln": 8,
+    "kontigent": 10,
+    "mentoren": 5,
+    "remark": ""
+  },
+  {
+    "Name": "jh24-2",
+    "date": "24.02.2024",
+    "tln": 16,
+    "kontigent": 17,
+    "mentoren": 6,
+    "remark": ""
+  },
+  {
+    "Name": "jh24-01",
+    "date": "27.01.2024",
+    "tln": 16,
+    "kontigent": 16,
+    "mentoren": 4,
+    "remark": ""
+  },
+  {
+    "Name": "jh23-11",
+    "date": "25.11.2023",
+    "tln": 13,
+    "kontigent": 15,
+    "mentoren": 5,
+    "remark": ""
+  },
+  {
+    "Name": "jh23-10",
+    "date": "28.10.2023",
+    "tln": 9,
+    "kontigent": 10,
+    "mentoren": 3,
+    "remark": ""
+  },
+  {
+    "Name": "jh23-9",
+    "date": "23.09.2023",
+    "tln": 9,
+    "kontigent": 10,
+    "mentoren": 5,
+    "remark": ""
+  },
+  {
+    "Name": "jh23-8",
+    "date": "26.08.2023",
+    "tln": 7,
+    "kontigent": 10,
+    "mentoren": 3,
+    "remark": ""
+  },
+  {
+    "Name": "jh23-7",
+    "date": "22.07.2023",
+    "tln": 3,
+    "kontigent": 10,
+    "mentoren": 3,
+    "remark": ""
+  },
+  {
+    "Name": "jh23-6",
+    "date": "24.06.2023",
+    "tln": 6,
+    "kontigent": 10,
+    "mentoren": 4,
+    "remark": ""
+  },
+  {
+    "Name": "jh23-5",
+    "date": "27.05.2023",
+    "tln": 9,
+    "kontigent": 10,
+    "mentoren": 4,
+    "remark": ""
+  },
+  {
+    "Name": "jh23-4",
+    "date": "22.04.2023",
+    "tln": 7,
+    "kontigent": 12,
+    "mentoren": 5,
+    "remark": ""
+  },
+  {
+    "Name": "jh23-3",
+    "date": "25.03.2023",
+    "tln": 10,
+    "kontigent": 10,
+    "mentoren": 4,
+    "remark": "Tag des offenen Hackspaces { JUNGHACKER – Programmieren für Kids }"
+  },
+  {
+    "Name": "jh23-2",
+    "date": "25.02.2023",
+    "tln": 10,
+    "kontigent": 10,
+    "mentoren": 4,
+    "remark": ""
+  },
+  {
+    "Name": "jh23-01",
+    "date": "28.01.2023",
+    "tln": 12,
+    "kontigent": 13,
+    "mentoren": 3,
+    "remark": ""
+  },
+  {
+    "Name": "jh22-11",
+    "date": "26.11.2022",
+    "tln": 6,
+    "kontigent": 10,
+    "mentoren": 3,
+    "remark": ""
+  },
+  {
+    "Name": "jh22-10",
+    "date": "22.10.2022",
+    "tln": 7,
+    "kontigent": 10,
+    "mentoren": 4,
+    "remark": ""
+  },
+  {
+    "Name": "jh22-9",
+    "date": "24.09.2022",
+    "tln": 5,
+    "kontigent": 20,
+    "mentoren": 4,
+    "remark": ""
+  },
+  {
+    "Name": "jh22-7",
+    "date": "23.07.2022",
+    "tln": 5,
+    "kontigent": 20,
+    "mentoren": 4,
+    "remark": ""
+  },
+  {
+    "Name": "jh22-6",
+    "date": "25.06.2022",
+    "tln": 8,
+    "kontigent": 20,
+    "mentoren": 5,
+    "remark": ""
+  },
+  {
+    "Name": "jh22-5",
+    "date": "28.05.2022",
+    "tln": 6,
+    "kontigent": 20,
+    "mentoren": 3,
+    "remark": ""
+  },
+  {
+    "Name": "jh22-4",
+    "date": "23.04.2022",
+    "tln": 8,
+    "kontigent": 20,
+    "mentoren": 4,
+    "remark": ""
+  },
+  {
+    "Name": "jh22-3",
+    "date": "26.03.2022",
+    "tln": 0,
+    "kontigent": 0,
+    "mentoren": 0,
+    "remark": ""
+  },
+  {
+    "Name": "jh22-2",
+    "date": "26.02.2022",
+    "tln": 0,
+    "kontigent": 0,
+    "mentoren": 0,
+    "remark": ""
+  },
+  {
+    "Name": "jh22-1",
+    "date": "22.01.2022",
+    "tln": 0,
+    "kontigent": 0,
+    "mentoren": 0,
+    "remark": ""
+  },
+  {
+    "Name": "jh21-12",
+    "date": "28.12.2021",
+    "tln": 4,
+    "kontigent": 10,
+    "mentoren": 2,
+    "remark": "Online-JUNGHACKER – Programmieren für Kids - Remote Chaos Experience"
+  },
+  {
+    "Name": "jh21-11",
+    "date": "27.11.2021",
+    "tln": 10,
+    "kontigent": 10,
+    "mentoren": 4,
+    "remark": "Online-JUNGHACKER – Programmieren für Kids"
+  },
+  {
+    "Name": "jh21-10",
+    "date": "23.10.2021",
+    "tln": 8,
+    "kontigent": 10,
+    "mentoren": 3,
+    "remark": ""
+  },
+  {
+    "Name": "jh21-09",
+    "date": "25.09.2021",
+    "tln": 7,
+    "kontigent": 10,
+    "mentoren": 4,
+    "remark": ""
+  },
+  {
+    "Name": "jh21-08",
+    "date": "28.08.2021",
+    "tln": 6,
+    "kontigent": 10,
+    "mentoren": 3,
+    "remark": ""
+  },
+  {
+    "Name": "jh21-07",
+    "date": "24.07.2021",
+    "tln": 6,
+    "kontigent": 10,
+    "mentoren": 3,
+    "remark": ""
+  },
+  {
+    "Name": "jh21-06",
+    "date": "26.06.2021",
+    "tln": 6,
+    "kontigent": 10,
+    "mentoren": 3,
+    "remark": ""
+  },
+  {
+    "Name": "jh21-05",
+    "date": "22.05.2021",
+    "tln": 2,
+    "kontigent": 10,
+    "mentoren": 1,
+    "remark": "Online-JUNGHACKER – Programmieren für Kids"
+  },
+  {
+    "Name": "jh21-03",
+    "date": "27.03.2021",
+    "tln": 2,
+    "kontigent": 10,
+    "mentoren": 1,
+    "remark": "Online-JUNGHACKER – Programmieren für Kids"
+  },
+  {
+    "Name": "jh21-02",
+    "date": "27.02.2021",
+    "tln": 4,
+    "kontigent": 10,
+    "mentoren": 1,
+    "remark": "Online-JUNGHACKER – Programmieren für Kids"
+  },
+  {
+    "Name": "jh21-01",
+    "date": "23.01.2021",
+    "tln": 2,
+    "kontigent": 10,
+    "mentoren": 1,
+    "remark": "Online-JUNGHACKER – Programmieren für Kids"
+  },
+  {
+    "Name": "jh20-12",
+    "date": "28.12.2020",
+    "tln": 4,
+    "kontigent": 10,
+    "mentoren": 1,
+    "remark": "Online-JUNGHACKER – Programmieren für Kids [rC3-Edition]"
+  },
+  {
+    "Name": "jh20-11",
+    "date": "28.11.2020",
+    "tln": 3,
+    "kontigent": 10,
+    "mentoren": 3,
+    "remark": "Online-JUNGHACKER – Programmieren für Kids"
+  },
+  {
+    "Name": "jh20-10",
+    "date": "24.10.2020",
+    "tln": 0,
+    "kontigent": 0,
+    "mentoren": 0,
+    "remark": "ausgefallen"
+  },
+  {
+    "Name": "jh20-09",
+    "date": "26.09.2020",
+    "tln": 10,
+    "kontigent": 10,
+    "mentoren": 4,
+    "remark": ""
+  },
+  {
+    "Name": "jh20-08",
+    "date": "22.08.2020",
+    "tln": 7,
+    "kontigent": 10,
+    "mentoren": 5,
+    "remark": ""
+  },
+  {
+    "Name": "jh20-07",
+    "date": "25.07.2020",
+    "tln": 7,
+    "kontigent": 10,
+    "mentoren": 3,
+    "remark": ""
+  },
+  {
+    "Name": "jh20-06",
+    "date": "27.06.2020",
+    "tln": 1,
+    "kontigent": 10,
+    "mentoren": 2,
+    "remark": "Online-JUNGHACKER – Programmieren für Kids"
+  },
+  {
+    "Name": "jh20-05",
+    "date": "23.05.2020",
+    "tln": 6,
+    "kontigent": 10,
+    "mentoren": 2,
+    "remark": "Online-JUNGHACKER – Programmieren für Kids"
+  },
+  {
+    "Name": "jh20-04",
+    "date": "25.04.2020",
+    "tln": 4,
+    "kontigent": 25,
+    "mentoren": 2,
+    "remark": "Online-JUNGHACKER – Programmieren für Kids"
+  },
+  {
+    "Name": "jh20-03",
+    "date": "28.03.2020",
+    "tln": 0,
+    "kontigent": 25,
+    "mentoren": 0,
+    "remark": "FÄLLT AUS! JUNGHACKER – Programmieren für Kids"
+  },
+  {
+    "Name": "jh20-02",
+    "date": "22.02.2020",
+    "tln": 20,
+    "kontigent": 25,
+    "mentoren": 9,
+    "remark": ""
+  },
+  {
+    "Name": "jh20-01",
+    "date": "25.01.2020",
+    "tln": 23,
+    "kontigent": 26,
+    "mentoren": 7,
+    "remark": ""
+  },
+  {
+    "Name": "jh19-11",
+    "date": "23.11.2019",
+    "tln": 19,
+    "kontigent": 33,
+    "mentoren": 9,
+    "remark": ""
+  },
+  {
+    "Name": "jh19-10",
+    "date": "26.10.2019",
+    "tln": 24,
+    "kontigent": 25,
+    "mentoren": 5,
+    "remark": ""
+  },
+  {
+    "Name": "jh19-09",
+    "date": "28.09.2019",
+    "tln": 24,
+    "kontigent": 25,
+    "mentoren": 9,
+    "remark": ""
+  },
+  {
+    "Name": "jh19-08",
+    "date": "24.08.2019",
+    "tln": 12,
+    "kontigent": 25,
+    "mentoren": 5,
+    "remark": ""
+  },
+  {
+    "Name": "jh19-07",
+    "date": "27.07.2019",
+    "tln": 7,
+    "kontigent": 25,
+    "mentoren": 6,
+    "remark": ""
+  },
+  {
+    "Name": "jh19-06",
+    "date": "27.06.2019",
+    "tln": 0,
+    "kontigent": 0,
+    "mentoren": "",
+    "remark": ""
+  },
+  {
+    "Name": "jh19-05",
+    "date": "25.05.2019",
+    "tln": 19,
+    "kontigent": 25,
+    "mentoren": 9,
+    "remark": ""
+  },
+  {
+    "Name": "jh19-04",
+    "date": "27.04.2019",
+    "tln": 17,
+    "kontigent": 25,
+    "mentoren": 8,
+    "remark": ""
+  }
+]
