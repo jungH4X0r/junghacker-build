@@ -29,7 +29,7 @@ jobs:
       # add the private key to the ssh-agent
       # the private repo is referenced via ssh so the key will be used
       # from the agent when doing the checkout
-      - uses: webfactory/ssh-agent@v0.5.0
+      - uses: webfactory/ssh-agent@v0.10.0
         with:
           ssh-private-key: |
                 ${{ secrets.SSH_PRIVATE_KEY }}
