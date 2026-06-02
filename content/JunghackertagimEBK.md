@@ -20,7 +20,7 @@ Unter [Themen](/sessions) kannst du nachsehen welche Mentoren etwas anbieten. Un
 
 ## Für wen ist der Junghackertag etwas?
 Für wen? Alle, die zwischen **10 und 18 Jahre alt** sind, egal ob mit oder ohne Vorwissen
-Wann? Immer am 4. Samstag im Monat (ausgenommen Dezember), 10 bis 16 Uhr
+Wann? Immer am 4. Samstag im Monat (ausgenommen Dezember), 10 bis 14:30 Uhr
 Wo? Eigenbaukombinat, Landsberger Straße 3, 06112 Halle
 
 
@@ -40,13 +40,11 @@ Bitte melde dich jeweils vorher über unseren [Ticket-Bereich](https://tickets.e
 ## Wie läuft der Junghackertag ab?
 Damit wir pünktlich beginnen können, bitten wir euch rechtzeitig da zu sein, am besten schon um 9:45.
 
-* 09:45–10:00 Ankommen
-* 10:00-10:15 Kennenlernrunde
-* 10:15-10:30 Projektideen finden und sammeln
-* 10:30-12:30 Coden, Basteln, Tüfteln
-* 12:30-13:00 Mittagessen
-* 13:00-15:30 Coden, Basteln, Tüfteln
-* 15:30–16:00 Präsentation der Projekte
+* 10:00-10:30 Ankommen & Kennenlernrunde
+* 10:30-12:00 Workshop
+* 12:00-12:30 Mittagessen
+* 12:30-14:15 Coden, Basteln, Tüfteln
+* 14:15–14:30 Präsentation der Projekte
 
 ### Hinweise:
 Falls du einen Laptop besitzt, kannst du den gerne mitbringen. Für alle anderen haben wir Leihgeräte vor Ort.
