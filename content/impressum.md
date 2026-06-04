@@ -12,12 +12,12 @@ draft:
 
 Eigenbaukombinat Halle e.V.
 Landsberger Straße 3
-06112 Halle
-
+06112 Halle (Saale)
+  
 Vertreten durch den aktuellen Vorstand des Eigenbaukombinats.
 vorstand@eigenbaukombinat.de
-
+  
 aktuelle Satzung (Stand: März 2018)
-
+  
 Vereinsregister: Amtsgericht Stendal, VR 3085
 {{% /home-info %}}

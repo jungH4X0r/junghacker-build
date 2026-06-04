@@ -14,9 +14,9 @@ Wir - die Organisator *innen und Mentor *innen des Junghackertages - sind Softwa
 
 ## Wie wir das tun
 
-Um allen die Teilnahme zu ermöglichen ist die Veranstaltung für die Teilnehmer *innen kostenlos. Wir bitten dennoch um eine kleine Spende, um dies auch weiterhin aufrecht zu erhalten. Ein Beitrag von ca. 8€ deckt unsere Kosten für das Mittagessen und Verbrauchsmaterialien.
+Um allen die Teilnahme zu ermöglichen ist die Veranstaltung für die Teilnehmer *innen kostenlos. Wir bitten dennoch um eine kleine Spende, um dies auch weiterhin aufrecht zu erhalten. Ein Beitrag von ca. 10€ deckt unsere Kosten für das Mittagessen und Verbrauchsmaterialien.
 
-**Bitte sehen Sie davon ab, der Veranstaltung beizuwohnen. Zur Präsentation der Ergebnisse ab ca. 15:30 Uhr sind Sie herzlich eingeladen!**
+**Bitte sehen Sie davon ab, der Veranstaltung beizuwohnen. Zur Präsentation der Ergebnisse ab ca. 14:15 Uhr sind Sie herzlich eingeladen!**
 
 Die Teilnehmer *innen müssen eine von ihnen unterschriebene [Einverständniserklärung](/pdf/elternzettel.pdf) mitbringen. Ohne diese ist eine Teilnahme leider nicht möglich. Zur Dokumentation und Öffentlichkeitsarbeit werden manchmal Fotos und Videoaufnahmen gemacht. Bitte teilen Sie uns auf der Einverständniserklärung mit, ob ihr Kind fotografiert und gefilmt werden darf.
 

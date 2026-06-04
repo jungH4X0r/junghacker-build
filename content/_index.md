@@ -19,7 +19,7 @@ Du willst gerne deine eigenen Computerspiele entwickeln, mit Elektronik basteln 
 
 {{% home-info class="primary" %}}
 ## Wann ist der Junghackertag?
-Im Eigenbaukombinat Halle e.V. findet seit 10/2016 immer an jeden 4. Samstag im Monat (außer Dezember) der Junghackertag statt. An jedem Dienstag ab 16Uhr gibt es für Junghacker die Möglichkeit die Räume im EBK für das fortführen der Projekte zu nutzen.
+Im Eigenbaukombinat Halle e.V. findet seit 10/2016 immer an jeden 4. Samstag im Monat (außer Dezember) der Junghackertag statt.
 {{% /home-info %}}
  
 
